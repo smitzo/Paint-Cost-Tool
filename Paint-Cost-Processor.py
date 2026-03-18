@@ -16,7 +16,7 @@ import hashlib
 
 
 about_text=("Pdp Processor v1.0\n"
-                               "Developed by Jiren Pandya\n"
+                               "Developed by Smit Joshi and Jiren Pandya\n"
                                "Other Contributor:\n"
                                "Applied by:\n"
                                "This software is the property of.\n"
@@ -25,8 +25,6 @@ about_text=("Pdp Processor v1.0\n"
                                "bug fixes, and additional features.\n"
                                "The user ID is 0 and the password is 0.\n"
                                "The password and user ID are unchangeable.\n"
-                               "For any help regarding this software, please call +91 8401751355 "
-                               "(Jiren Pandya) or email at pandyajiren15@gmail.com.")
 
 
 # Function to save settings
